@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|c:\\users\\usuario\\desktop\\proyecto\\hectorchat\\chatroom\\chatroom\\views\\chat\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\views\\chat\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|c:\\users\\usuario\\desktop\\proyecto\\hectorchat\\chatroom\\chatroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|c:\\users\\usuario\\desktop\\proyecto\\hectorchat\\chatroom\\chatroom\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|c:\\users\\usuario\\desktop\\proyecto\\hectorchat\\chatroom\\chatroom\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|c:\\users\\usuario\\desktop\\proyecto\\hectorchat\\chatroom\\chatroom\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A9129D-ADB6-4E92-B1C5-DE5AD6A1D129}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Views\\Chat\\Room.cshtml",
+              "RelativeDocumentMoniker": "ChatRoom\\Views\\Chat\\Room.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Views\\Chat\\Room.cshtml",
+              "RelativeToolTip": "ChatRoom\\Views\\Chat\\Room.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:48:00.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatRoom\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "ChatRoom\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:42:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Program.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Program.cs",
+              "RelativeToolTip": "ChatRoom\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:31:31.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\ChatHub.cs",
+              "RelativeToolTip": "ChatRoom\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:30:40.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\HectorChat\\ChatRoom\\ChatRoom\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatRoom\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:39:34.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
